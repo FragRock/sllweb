@@ -1,0 +1,17 @@
+{
+  "name": "sauca-web2",
+  "version": "0.1.0",
+  "description": "Sauca Website 2.0",
+  "main": "index.js",
+  "scripts": {
+    "npm-check": "npm-check -u",
+    "dev": "hugo server -D --gc --disableFastRender",
+    "build": "hugo --gc --minify "
+  },
+  "repository": {
+    "type": "git",
+    "url": "SaucaWeb2"
+  },
+  "author": "frag",
+  "license": "ISC"
+}

@@ -1,0 +1,45 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+member  :
+  - image         : images/team/sc.jpg
+    name          : Simon Carter
+    designation   : Founder & CTO
+    description   : >
+      Technical Guru, Solutions & Cloud Architecture
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/vb.jpg
+    name          : Vanessa Bailey
+    designation   : CEO
+    description   : >
+      Innovation, Strategic Design & Entrepreneurship Pro
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/sw2.jpg
+    name          : Steve Warren
+    designation   : CMO
+    description   : >
+      20+ Years Of Event Lighting Marketing At The Helm Of Avolites
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : images/team/ap.jpg
+    name          : Andy "Fraggle" Porter
+    designation   : COO
+    description   : >
+      30+ Years, Live Event, Professional Lighting Engineer
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/

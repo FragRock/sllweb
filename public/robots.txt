@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /ananke/
+Disallow: /OldSite/
+
+Sitemap: https://www.saucalivelight.com/sitemap.xml
